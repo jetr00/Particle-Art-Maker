@@ -1,0 +1,9 @@
+camera.py
+pose_landmarker_full.task
+pose_landmarker_heavy.task
+pose_landmarker_lite.task
+selfie_segmenteter.tflite
+start.py
+/env
+/absolute
+.git
